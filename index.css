@@ -152,6 +152,11 @@ body {
     justify-content: center;
 }
 
+#tab-2 #elem1 {
+    height: 100%;
+    width: 31%;
+}
+
 #tab-2 .elem img {
     height: 100%;
     width: 100%;
