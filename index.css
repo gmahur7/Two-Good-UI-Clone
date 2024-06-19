@@ -144,7 +144,7 @@ body {
 #tab-2 .elem {
     height: 100%;
     width: 31%;
-    background-color: red;
+    /* background-color: red; */
     overflow: hidden;
     position: relative;
     display: flex;
@@ -536,10 +536,15 @@ body {
         padding: 10vw 3vw;
     }
 
+    #tab-2 #elem1 {
+        height: 100%;
+        width: 100%;
+    }
+
     #tab-2 .elem {
         height: 100%;
         width: 100%;
-        background-color: red;
+        /* background-color: red; */
         overflow: hidden;
         margin-bottom: 3vw;
     }
